@@ -5,7 +5,7 @@
   "main": "server.js",
   "engines":{
     "node":"6.11.2"
-  }
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/capcaz99/pruebaaws.git"
